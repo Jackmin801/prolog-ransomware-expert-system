@@ -24,3 +24,8 @@ To stop the application use the command:
 ```
 docker stop rex
 ```
+
+## Usage
+A user manual on how to use the application is available here:
+
+https://github.com/Jackmin801/prolog-ransomware-expert-system/blob/main/WID2001%20KRR%20Group%204%20User%20Manual.pdf
