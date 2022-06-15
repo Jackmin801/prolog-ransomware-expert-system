@@ -13,7 +13,7 @@ A packaged image of the application is available on dockerhub: https://hub.docke
 Prerequisites:
 1. Docker (You can install docker at https://docs.docker.com/get-docker/)
 
-You can then deploy the app using the command below:
+You can deploy the app using the command below:
 ```
 docker run --name rex --rm -p 8080:80 -d jackmin801/rex
 ```
